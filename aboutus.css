@@ -32,5 +32,10 @@ width: 50%;
 
 .technology{
     width: 90px;
+}
 
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: monospace;
 }
