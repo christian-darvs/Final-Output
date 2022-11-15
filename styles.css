@@ -94,3 +94,15 @@ button:hover{
         overflow-wrap: normal;
     }
 }
+
+@media (max-width: 400px) { 
+    h1{
+       font-size: 1.7rem;
+    }
+    .wrapper {
+        margin-top: 40%;
+        display: grid;
+        word-wrap: normal;
+        overflow-wrap: normal;
+    }
+}
