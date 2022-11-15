@@ -43,6 +43,7 @@ overflow: hidden;
 margin: 15% auto 0;
 white-space: normal;
 word-break: break-all;
+width: auto;
 
 }
 @keyframes typing {
@@ -83,3 +84,14 @@ button:hover{
     transition: all 0.3s ease 0s;
 }
 
+@media (max-width: 576px) { 
+    h1{
+       font-size: 2rem;
+    }
+    .wrapper {
+        margin-top: 40%;
+        display: grid;
+        word-wrap: normal;
+        overflow-wrap: normal;
+    }
+}
