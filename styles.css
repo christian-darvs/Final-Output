@@ -38,7 +38,6 @@ body {
 .wrapper{
     place-items: center;
     display: grid;            
-border: 2px solid pink;
 overflow: hidden;
 margin: 15% auto 0;
 white-space: normal;
