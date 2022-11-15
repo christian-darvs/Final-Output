@@ -1,0 +1,9 @@
+.navbar-brand{
+    font-size: 1.5rem;
+    font-weight: 400;
+    font-family: monospace;
+}
+
+.nav-item{
+    font-size: 1.2rem;
+}
