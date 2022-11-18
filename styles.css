@@ -85,7 +85,7 @@ button:hover{
 
 @media (max-width: 576px) { 
     h1{
-       font-size: 1.8rem;
+       font-size: 1.7rem;
     }
     .wrapper {
         margin-top: 60%;
