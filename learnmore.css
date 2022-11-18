@@ -22,3 +22,6 @@ a {
 a:hover{
 color: black;
 }
+.g-4, .gy-4 {
+    --bs-gutter-y: 1rem;
+}
